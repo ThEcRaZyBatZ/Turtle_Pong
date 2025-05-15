@@ -123,6 +123,7 @@ class Scoreboard:
             self.game_over("Player 1")
             return
         self.update_score()
+        #sup krupa <3
 
 
     def game_over(self,val):
